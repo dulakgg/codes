@@ -1,92 +1,122 @@
 [
   {
-    "ravenousbeasts", "UFO 57"
+    "code": "ravenousbeasts",
+    "reward": "UFO 57"
   },
   {
-    "putyahandsup", "UFO 71"
+    "code": "putyahandsup",
+    "reward": "UFO 71"
   },
   {
-    "thickofit", "1 Mana Orb"
+    "code": "thickofit",
+    "reward": "1 Mana Orb"
   },
   {
-    "skibidi", "1 Mana Orb"
+    "code": "skibidi",
+    "reward": "1 Mana Orb"
   },
   {
-    "fireinthehole", "1 Fire Shard"
+    "code": "fireinthehole",
+    "reward": "1 Fire Shard"
   },
   {
-    "robtopisnice", "10 Mana Orbs"
+    "code": "robtopisnice",
+    "reward": "10 Mana Orbs"
   },
   {
-    "bussin", "69 Mana Orbs"
+    "code": "bussin",
+    "reward": "69 Mana Orbs"
   },
   {
-    "wellmet", "5 Diamonds"
+    "code": "wellmet",
+    "reward": "5 Diamonds"
   },
   {
-    "checksteam", "1 Demon Key"
+    "code": "checksteam",
+    "reward": "1 Demon Key"
   },
   {
-    "touchgrass", "1 Earth Shard"
+    "code": "touchgrass",
+    "reward": "1 Earth Shard"
   },
   {
-    "wateronthehill", "1 Ice Shard"
+    "code": "wateronthehill",
+    "reward": "1 Ice Shard"
   },
   {
-    "backondash", "Cube 409"
+    "code": "backondash",
+    "reward": "Cube 409"
   },
   {
-    "key", "1 Demon Key"
+    "code": "key",
+    "reward": "1 Demon Key"
   },
   {
-    "geometry", "Ball 90"
+    "code": "geometry",
+    "reward": "Ball 90"
   },
   {
-    "citadel", "Cube 231"
+    "code": "citadel",
+    "reward": "Cube 231"
   },
   {
-    "retrospective", "Ship 121"
+    "code": "retrospective",
+    "reward": "Ship 121"
   },
   {
-    "iaminpain", "10 Diamonds, 100 Mana Orbs"
+    "code": "iaminpain",
+    "reward": "10 Diamonds, 100 Mana Orbs"
   },
   {
-    "ruins", "Ball 91"
+    "code": "ruins",
+    "reward": "Ball 91"
   },
   {
-    "spacegauntlet", "20 Diamonds, 1 Demon Key, 2 Metal Shards"
+    "code": "spacegauntlet",
+    "reward": "20 Diamonds, 1 Demon Key, 2 Metal Shards"
   },
   {
-    "cheatcodes", "UFO 138"
+    "code": "cheatcodes",
+    "reward": "UFO 138"
   },
   {
-    "backstreetboy", "Robot 37"
+    "code": "backstreetboy",
+    "reward": "Robot 37"
   },
   {
-    "noelelectra", "Swing 17"
+    "code": "noelelectra",
+    "reward": "Swing 17"
   },
   {
-    "gd2025", "1 Yellow Key, 25 Diamonds, 25 Mana Orbs"
+    "code": "gd2025",
+    "reward": "1 Yellow Key, 25 Diamonds, 25 Mana Orbs"
   },
   {
-    "duckstep", "Ship 146"
+    "code": "duckstep",
+    "reward": "Ship 146"
   },
   {
-    "skylinept2", "Cube 309"
+    "code": "skylinept2",
+    "reward": "Cube 309"
   },
   {
-    "boogie", "Wave 92"
+    "code": "boogie",
+    "reward": "Wave 92"
   },
   {
-    "buttonmasher", "UFO 63"
+    "code": "buttonmasher",
+    "reward": "UFO 63"
   },
   {
-    "ncsalbum", "Jetpack 8"
+    "code": "ncsalbum",
+    "reward": "Jetpack 8"
   },
   {
-    "gullible", "1 Mana Orb"
+    "code": "gullible",
+    "reward": "1 Mana Orb"
   },
   {
-    "Randomgauntlet", "cube 351"
+    "code": "Randomgauntlet",
+    "reward": "Cube 351"
   }
 ]
