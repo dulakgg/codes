@@ -1,122 +1,32 @@
-[
-  {
-    "code": "ravenousbeasts",
-    "reward": "UFO 57"
-  },
-  {
-    "code": "putyahandsup",
-    "reward": "UFO 71"
-  },
-  {
-    "code": "thickofit",
-    "reward": "1 Mana Orb"
-  },
-  {
-    "code": "skibidi",
-    "reward": "1 Mana Orb"
-  },
-  {
-    "code": "fireinthehole",
-    "reward": "1 Fire Shard"
-  },
-  {
-    "code": "robtopisnice",
-    "reward": "10 Mana Orbs"
-  },
-  {
-    "code": "bussin",
-    "reward": "69 Mana Orbs"
-  },
-  {
-    "code": "wellmet",
-    "reward": "5 Diamonds"
-  },
-  {
-    "code": "checksteam",
-    "reward": "1 Demon Key"
-  },
-  {
-    "code": "touchgrass",
-    "reward": "1 Earth Shard"
-  },
-  {
-    "code": "wateronthehill",
-    "reward": "1 Ice Shard"
-  },
-  {
-    "code": "backondash",
-    "reward": "Cube 409"
-  },
-  {
-    "code": "key",
-    "reward": "1 Demon Key"
-  },
-  {
-    "code": "geometry",
-    "reward": "Ball 90"
-  },
-  {
-    "code": "citadel",
-    "reward": "Cube 231"
-  },
-  {
-    "code": "retrospective",
-    "reward": "Ship 121"
-  },
-  {
-    "code": "iaminpain",
-    "reward": "10 Diamonds, 100 Mana Orbs"
-  },
-  {
-    "code": "ruins",
-    "reward": "Ball 91"
-  },
-  {
-    "code": "spacegauntlet",
-    "reward": "20 Diamonds, 1 Demon Key, 2 Metal Shards"
-  },
-  {
-    "code": "cheatcodes",
-    "reward": "UFO 138"
-  },
-  {
-    "code": "backstreetboy",
-    "reward": "Robot 37"
-  },
-  {
-    "code": "noelelectra",
-    "reward": "Swing 17"
-  },
-  {
-    "code": "gd2025",
-    "reward": "1 Yellow Key, 25 Diamonds, 25 Mana Orbs"
-  },
-  {
-    "code": "duckstep",
-    "reward": "Ship 146"
-  },
-  {
-    "code": "skylinept2",
-    "reward": "Cube 309"
-  },
-  {
-    "code": "boogie",
-    "reward": "Wave 92"
-  },
-  {
-    "code": "buttonmasher",
-    "reward": "UFO 63"
-  },
-  {
-    "code": "ncsalbum",
-    "reward": "Jetpack 8"
-  },
-  {
-    "code": "gullible",
-    "reward": "1 Mana Orb"
-  },
-  {
-    "code": "Randomgauntlet",
-    "reward": "Cube 351"
-  }
-]
+{
+  "1": ["ravenousbeasts", "UFO 57"],
+  "2": ["putyahandsup", "UFO 71"],
+  "3": ["thickofit", "1 Mana Orb"],
+  "4": ["skibidi", "1 Mana Orb"],
+  "5": ["fireinthehole", "1 Fire Shard"],
+  "6": ["robtopisnice", "10 Mana Orbs"],
+  "7": ["bussin", "69 Mana Orbs"],
+  "8": ["wellmet", "5 Diamonds"],
+  "9": ["checksteam", "1 Demon Key"],
+  "10": ["touchgrass", "1 Earth Shard"],
+  "11": ["wateronthehill", "1 Ice Shard"],
+  "12": ["backondash", "Cube 409"],
+  "13": ["key", "1 Demon Key"],
+  "14": ["geometry", "Ball 90"],
+  "15": ["citadel", "Cube 231"],
+  "16": ["retrospective", "Ship 121"],
+  "17": ["iaminpain", "10 Diamonds, 100 Mana Orbs"],
+  "18": ["ruins", "Ball 91"],
+  "19": ["spacegauntlet", "20 Diamonds, 1 Demon Key, 2 Metal Shards"],
+  "20": ["cheatcodes", "UFO 138"],
+  "21": ["backstreetboy", "Robot 37"],
+  "22": ["noelelectra", "Swing 17"],
+  "23": ["gd2025", "1 Yellow Key, 25 Diamonds, 25 Mana Orbs"],
+  "24": ["duckstep", "Ship 146"],
+  "25": ["skylinept2", "Cube 309"],
+  "26": ["boogie", "Wave 92"],
+  "27": ["buttonmasher", "UFO 63"],
+  "28": ["ncsalbum", "Jetpack 8"],
+  "29": ["gullible", "1 Mana Orb"],
+  "30": ["Randomgauntlet", "Cube 351"]
+}
